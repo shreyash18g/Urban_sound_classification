@@ -46,7 +46,7 @@ Additionally, a CSV file named `UrbanSound8k.csv` is provided, containing metada
 
 1. Clone this repository:
 
-git clone https://github.com/shreyash18g/Urban-sound-classification.git
+git clone https://github.com/shreyash18g/Urban_sound_classification.git
 
 
 ## Data Exploration
